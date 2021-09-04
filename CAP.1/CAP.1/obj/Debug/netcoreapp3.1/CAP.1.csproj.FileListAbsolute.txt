@@ -1,0 +1,14 @@
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.exe
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.deps.json
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.runtimeconfig.json
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.dll
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\bin\Debug\netcoreapp3.1\CAP.1.pdb
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.dll
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.pdb
+C:\Users\Vismar\Desktop\Aplicada I\CAP.1\CAP.1\obj\Debug\netcoreapp3.1\CAP.1.genruntimeconfig.cache
