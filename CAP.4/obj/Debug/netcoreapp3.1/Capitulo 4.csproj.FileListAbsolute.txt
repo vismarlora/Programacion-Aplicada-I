@@ -1,0 +1,19 @@
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.exe
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.deps.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.runtimeconfig.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\bin\Debug\netcoreapp3.1\Capitulo 4.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4_MarkupCompile.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4_MarkupCompile.lref
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.g.resources
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.AssemblyInfo.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Capitulo 4.genruntimeconfig.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Ejercicio_1.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo 4\obj\Debug\netcoreapp3.1\Ejercicio_1.baml

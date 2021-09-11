@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Capitulo_4</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Capitulo_4.App</StartupObject>
+  </PropertyGroup>
+</Project>

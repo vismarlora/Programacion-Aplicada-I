@@ -1,0 +1,26 @@
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.exe
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.deps.json
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.runtimeconfig.json
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.dll
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\ref\Capitulo 5.dll
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\bin\Debug\net5.0-windows\Capitulo 5.pdb
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Factorial\factorialNum.g.cs
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\NumEnLetras\numLetras.g.cs
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5_MarkupCompile.cache
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5_MarkupCompile.lref
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Factorial\factorialNum.baml
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\NumEnLetras\numLetras.baml
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.g.resources
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.dll
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\ref\Capitulo 5.dll
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.pdb
+C:\Users\Vismar\Desktop\Tarea2Cap5Nach\MenuEjercicios5\obj\Debug\net5.0-windows\Capitulo 5.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Capitulo_4.Ejercicio_1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capitulo_4"
+        mc:Ignorable="d"
+        Title="Ejercicio_1" Height="350" Width="420">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="0,5">
+            <StackPanel Orientation="Vertical" Margin="10">
+                <Label Content="Ingrese el numero : " />
+                <TextBox Name="NumeroTextBox"  Height="15" Width="150" HorizontalAlignment="Left" Margin="5,0"/>
+                <StackPanel Orientation="Horizontal" Height="43" RenderTransformOrigin="0.5,0.5" Width="399" >
+                    <Button x:Name="CalcularButton" Width="50" Height="20" Content="Calcular" Margin="10" Click="CalcularButton_Click"/>
+                    <Button Name="LimpiarButton" Width="50" Height="20" Content="Limpiar" Margin="10" Click="LimpiarButton_Click"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" Height="150" Width="420" >
+                    <ListView x:Name="TablaListView" Height="150" Width="200" HorizontalAlignment="Left" Margin="10"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
