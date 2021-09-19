@@ -48,7 +48,7 @@ namespace Capitulo_6.Ejercicios
 
             for (int i = 0; i < curso; i++)
             {
-                cantidad = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la cantidad de alumnos del salón: {i + 1}", " Cantidad de Alumnos ", " ", 50, 0));
+                cantidad = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la cantidad de estudiantes de la aula {i + 1}", " Cantidad de Estudiantes ", " ", 50, 0));
                 calificaciones[i] = new float[cantidad];
                 
             }
@@ -61,7 +61,7 @@ namespace Capitulo_6.Ejercicios
             {
                 for (int j = 0; j < calificaciones[i].GetLength(0); j++)
                 {
-                    calificaciones[i][j] = Convert.ToSingle(Microsoft.VisualBasic.Interaction.InputBox($"Digite la calificación del alumno {j + 1} del salón {i + 1}", "Calificaciones Alumnos"));
+                    calificaciones[i][j] = Convert.ToSingle(Microsoft.VisualBasic.Interaction.InputBox($"Digite la calificación del estudiante {j + 1} de la aula {i + 1}", "Calificaciones Estudiantes"));
 
                     suma += calificaciones[i][j];
 
@@ -75,11 +75,11 @@ namespace Capitulo_6.Ejercicios
             }
             for (int n = 0; n < curso; n++)
             {
-                CalificacionesListView.Items.Add($"Salón {n + 1}");
+                CalificacionesListView.Items.Add($"Aula {n + 1}");
 
                 for (int m = 0; m < calificaciones[n].GetLength(0); m++)
                 {
-                    CalificacionesListView.Items.Add($"El alumno {m + 1} tiene {calificaciones[n][m]}");
+                    CalificacionesListView.Items.Add($"El estudiante {m + 1} tiene: {calificaciones[n][m]}");
                 }
             }
 

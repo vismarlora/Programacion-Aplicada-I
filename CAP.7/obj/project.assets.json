@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vismar\\Desktop\\Capitulo_7\\Capitulo_7.csproj",
+      "projectUniqueName": "C:\\Users\\Vismar\\Desktop\\Aplicada I\\Ejercicios Tarea1 Prog. Aplic\\CAP.7\\Capitulo_7.csproj",
       "projectName": "Capitulo_7",
-      "projectPath": "C:\\Users\\Vismar\\Desktop\\Capitulo_7\\Capitulo_7.csproj",
+      "projectPath": "C:\\Users\\Vismar\\Desktop\\Aplicada I\\Ejercicios Tarea1 Prog. Aplic\\CAP.7\\Capitulo_7.csproj",
       "packagesPath": "C:\\Users\\Vismar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vismar\\Desktop\\Capitulo_7\\obj\\",
+      "outputPath": "C:\\Users\\Vismar\\Desktop\\Aplicada I\\Ejercicios Tarea1 Prog. Aplic\\CAP.7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -46,7 +46,7 @@ namespace Capitulo_6.Ejercicios
 
             for (int i = 0; i < curso; i++)
             {
-                cantidad = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la cantidad de alumnos del salón: {i + 1}", " Cantidad de Alumnos ", " ", 50, 0));
+                cantidad = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la cantidad de estudiantes del aula {i + 1}", " Cantidad de Estudiantes ", " ", 50, 0));
                 calificaciones[i] = new float[cantidad];
                 
                 contador += cantidad;
@@ -62,7 +62,7 @@ namespace Capitulo_6.Ejercicios
             {
                 for (int j = 0; j < calificaciones[i].GetLength(0); j++)
                 {
-                    calificaciones[i][j] = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la calificación del alumno {j + 1}  del salón {i + 1}", "Calificaciones Alumnos", " ", 50, 0));
+                    calificaciones[i][j] = ToInt(Microsoft.VisualBasic.Interaction.InputBox($"Digite la calificación del estudiante {j + 1}  de la aula {i + 1}", "Calificaciones Estudiantes", " ", 50, 0));
                     suma += calificaciones[i][j];
                 }
             }

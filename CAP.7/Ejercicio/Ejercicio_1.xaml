@@ -15,7 +15,7 @@
                     
                     <Button x:Name="GuardarButton" Height="20" Width="60" Content="Guardar" Margin="10,0" Click="GuardarButton_Click"/>
                     
-                    <Button x:Name="ResultadosButton" Height="20" Width="60" Content="Resultados" Margin="10,0" Click="ResultadosButton_Click"/>
+                    <Button x:Name="ResultadosButton" Height="20" Width="60" Content="Calcular" Margin="10,0" Click="ResultadosButton_Click"/>
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal">

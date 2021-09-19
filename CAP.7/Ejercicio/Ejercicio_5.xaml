@@ -22,7 +22,7 @@
                 
             </StackPanel>
             <StackPanel>
-                <Label Content="Guardado: " Margin="5,0"/>
+                <Label Content="Contacto: " Margin="5,0"/>
                 <TextBox x:Name="BusquedaTextBox" Margin="10,0" Height="60" Width="400" HorizontalAlignment="Left"/>
             </StackPanel>
         </StackPanel>

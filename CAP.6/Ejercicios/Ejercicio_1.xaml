@@ -8,23 +8,25 @@
         Title="Ejercicio_1" Height="550" Width="450">
     <Grid>
         <StackPanel>
-            <StackPanel Orientation="Vertical">
+            <StackPanel>
                 <Label Content="Cantidad de cursos: " Margin="5,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
                 <TextBox x:Name="CursosTextBox" Height="20" Width="100" HorizontalAlignment="Left" Margin="10,0,0,0"/>
-                <Button x:Name="AgregarCursoButton" Height="20" Width="60" HorizontalAlignment="Left" Margin="10,10" Content="Agregar" Click="AgregarCursoButton_Click"/>
+                <Button x:Name="AgregarCursoButton" Height="20" Width="60" HorizontalAlignment="Left" Margin="10,10" Content="Añadir" Click="AgregarCursoButton_Click"/>
             </StackPanel>
 
             <StackPanel>
-                <Button x:Name="AregarCalificaionesButton" Height="20" Width="230" HorizontalAlignment="Left" Margin="10,10" Content="Añadir las calificaciones a los Alumnos " Click="AregarCalificaionesButton_Click" />
+                <Button x:Name="AregarCalificaionesButton" Height="25" Width="120" HorizontalAlignment="Left" Margin="10,10" Content="Añadir calificaciones" Click="AregarCalificaionesButton_Click" />
             </StackPanel>
-
-            <StackPanel Orientation="Horizontal">
-                <ListView x:Name="ResultadosListView" Height="80" Width="200" HorizontalAlignment="Left" Margin="10,10"/>
-                <Button x:Name="ResultadoButton" Height="25" Width="60" VerticalAlignment="Top" Margin="15,50" Content="Resultado" Click="ResultadoButton_Click"/>
+            
+            <StackPanel Orientation="Vertical">
+                <ListView x:Name="ResultadosListView" Height="114" Width="200" HorizontalAlignment="Left" Margin="10,0"/>
+                <Button x:Name="ResultadoButton" HorizontalAlignment="Left" Height="25" Width="60" VerticalAlignment="Top" Margin="15,15" Content="Calcular" Click="ResultadoButton_Click"/>
             </StackPanel>
 
             <Label Content="Calificaciones: " Margin="10,10,0,0"/>
-            <ListBox Height="200" Width="400" HorizontalAlignment="Left" Margin="10,0" Name="CalificacionesListView"/>
+            <ListBox Height="150" Width="360" HorizontalAlignment="Left" Margin="10,0" Name="CalificacionesListView"/>
         </StackPanel>
 
     </Grid>
