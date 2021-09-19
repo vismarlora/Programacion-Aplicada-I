@@ -1,0 +1,64 @@
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.exe
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.deps.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.runtimeconfig.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\ref\Capitulo_6.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_1.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6_MarkupCompile.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6_MarkupCompile.lref
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_1.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.g.resources
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.AssemblyInfo.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\ref\Capitulo_6.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.genruntimeconfig.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_2.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_2.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_3.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_3.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.baml
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.exe
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.deps.json
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.runtimeconfig.json
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.dll
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\ref\Capitulo_6.dll
+C:\Users\Vismar\Desktop\Capitulo_6\bin\Debug\net5.0-windows\Capitulo_6.pdb
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_1.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_2.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_3.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6_MarkupCompile.cache
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6_MarkupCompile.lref
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_1.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_2.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_3.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.g.resources
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.dll
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\ref\Capitulo_6.dll
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.pdb
+C:\Users\Vismar\Desktop\Capitulo_6\obj\Debug\net5.0-windows\Capitulo_6.genruntimeconfig.cache

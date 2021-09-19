@@ -1,0 +1,51 @@
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.exe
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.deps.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.runtimeconfig.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_1.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7_MarkupCompile.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7_MarkupCompile.lref
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_1.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.g.resources
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.AssemblyInfo.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.dll
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.pdb
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.genruntimeconfig.cache
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_2.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_2.baml
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_5.g.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea II\Aplicada\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_5.baml
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.exe
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.deps.json
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.runtimeconfig.json
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.dll
+C:\Users\Vismar\Desktop\Capitulo_7\bin\Debug\netcoreapp3.1\Capitulo_7.pdb
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_1.g.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_2.g.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_5.g.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7_MarkupCompile.cache
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7_MarkupCompile.lref
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_1.baml
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_2.baml
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Ejercicio\Ejercicio_5.baml
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.g.resources
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.dll
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.pdb
+C:\Users\Vismar\Desktop\Capitulo_7\obj\Debug\netcoreapp3.1\Capitulo_7.genruntimeconfig.cache
