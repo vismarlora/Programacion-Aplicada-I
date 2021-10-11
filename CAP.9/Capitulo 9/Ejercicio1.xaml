@@ -1,0 +1,22 @@
+﻿<Window x:Class="CAP._9.Capitulo_9.Ejercicio1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CAP._9.Capitulo_9"
+        mc:Ignorable="d"
+        Title="Ejercicio 1" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Digite la cantidad de Productos que desea Guardar: " Margin="5,10,0,0"/>
+                <TextBox x:Name="CantidadTextBox" Height="29" Width="180" HorizontalAlignment="Left" Margin="10,0"/>
+                <Button x:Name="IngresarButton" Content="Empezar a Digitar los Productos" Width="190" HorizontalAlignment="Left" Margin="10,10" Click="IngresarButton_Click"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+                <Label Content=" Productos Guardados"/>
+                <ListBox x:Name="MostrarListBox" Height="250" Margin="5,5,0,0" Width="300" HorizontalAlignment="Left"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

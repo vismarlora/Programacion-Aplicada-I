@@ -1,0 +1,26 @@
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.exe
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.deps.json
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.runtimeconfig.json
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.runtimeconfig.dev.json
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.dll
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\ref\CAP.8.dll
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\bin\Debug\net5.0-windows\CAP.8.pdb
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.csproj.AssemblyReference.cache
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8_MarkupCompile.cache
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8_MarkupCompile.lref
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.g.resources
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.AssemblyInfoInputs.cache
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.AssemblyInfo.cs
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.csproj.CoreCompileInputs.cache
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.dll
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\ref\CAP.8.dll
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.pdb
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\CAP.8.genruntimeconfig.cache
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\Capitulo 8\Ejercicio3.g.cs
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\Capitulo 8\Ejercicio5.g.cs
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\Capitulo 8\Ejercicio3.baml
+C:\Users\Vismar\Desktop\Aplicada I\Ejercicios Tarea1 Prog. Aplic\CAP.8\obj\Debug\net5.0-windows\Capitulo 8\Ejercicio5.baml
