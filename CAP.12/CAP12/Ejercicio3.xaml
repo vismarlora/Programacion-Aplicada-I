@@ -1,0 +1,20 @@
+﻿<Window x:Class="CAP._12.CAP12.Ejercicio3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CAP._12.CAP12"
+        mc:Ignorable="d"
+        Title="Ejercicio 3" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="Excepciones que pueden suceder con arreglos" HorizontalAlignment="Center"/>
+            
+            <Label Content="1. System.NullReferenceException (Esta referenciando a null)"/>
+            
+            <Label Content="2. ArrayTypeMismatchException (Asignación a array de elemento que no es de su tipo)"/>
+            
+            <Label Content="3. System.IndexOutOfRangeException (El indice esta fuera de los limites)"/>
+        </StackPanel>
+    </Grid>
+</Window>
